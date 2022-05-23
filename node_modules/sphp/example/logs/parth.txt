@@ -1,0 +1,37 @@
+--16 May
+Changes -
+    - profile icon gear (Home page)
+    - lectures icon (Home Page)
+    - Lectures' Universal Page 
+    - Profile Page
+
+
+Pending
+    - Dark mode button on home page (js)
+    - profile page (designing)
+    - course page   (designing)
+
+--17 May --
+Changes - 
+    - course page complete (designing)👍
+    - Home page - syllabus section (designing) 
+
+Pending 
+    - FAB button Home page
+    - Course page - fingerprint / face page
+    - syllabus page 🐱‍🏍
+
+-- 18 May --
+Changes - 
+    - Teacher dashboard page
+    - teacher lecture page
+    ----
+    - new lecture page
+
+Pending -
+    - teacher lecture page form / register
+    - teacher lecture - toggle...
+
+Changes - 
+	- fingerprint
+    - Forms
